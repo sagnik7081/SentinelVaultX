@@ -165,7 +165,7 @@
 
 ```bash
 # 🎪 Step 1: Clone the magical repo
-git clone https://github.com/sagnik7081/Enhanced-ATM-Security
+git clone https://github.com/sagnik7081/SentinelVaultX
 cd Enhanced-Atm-Security
 
 # 🐍 Step 2: Create your Python playground
